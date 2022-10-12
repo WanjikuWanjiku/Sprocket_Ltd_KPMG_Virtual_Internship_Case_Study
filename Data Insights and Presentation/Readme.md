@@ -4,7 +4,9 @@
 This case study is broken down into three steps with different deliverables. These are:
 
 Step 1 - Data Quality Assessment
+
 Step 2 - Data Insights
+
 Step 3 - Data Insights and Presentation
 
 ***Task:***
