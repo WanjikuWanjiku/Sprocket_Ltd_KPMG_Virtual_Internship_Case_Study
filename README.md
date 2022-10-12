@@ -29,5 +29,4 @@ Tools used in this case study are:
 
 [Tableau Public](https://tabsoft.co/3ECthfi)
 
-[PowerPoint Presentation](https://1drv.ms/p/s!AtqTV_z531JVgkNLBPW6zL60Meo2?e=yIN826)![image](https://user-images.githubusercontent.com/33546723/195320874-a314aff6-c720-4439-b0f2-64b196682398.png)
-
+[PowerPoint Presentation](https://1drv.ms/p/s!AtqTV_z531JVgkNLBPW6zL60Meo2?e=yIN826)
