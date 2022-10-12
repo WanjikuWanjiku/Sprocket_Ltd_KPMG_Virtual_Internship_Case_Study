@@ -11,14 +11,16 @@ This repository contains the following folders:
 All queries used to clean and analyse the data. 
      
 ***2. Data Quality Assessment***
-     Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. 
+
+Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. 
      
 ***3. Data Insights***
-    PowerPoint Presentation containing a detailed approach for the strategies involved in Data Exploration, 
-    Model Development and Interpretation. 
+
+PowerPoint Presentation containing a detailed approach for the strategies involved in Data Exploration, Model Development and Interpretation. 
     
 ***4. Data Insights and Presentation***
-     A dashboard. 
+
+A dashboard. 
      
 
 **TOOLS**
