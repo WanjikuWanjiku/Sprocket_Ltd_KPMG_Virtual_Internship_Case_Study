@@ -7,20 +7,16 @@ This is a case study of *** Sprocket Ltd*** as part of the ***KPMG Virtual Inter
 This repository contains the following folders:
 
 ***1. Queries***
-
      All queries used to clean and analyse the data. 
      
 ***2. Data Quality Assessment***
-
      Draft an email to the client identifying the data quality issues and strategies to mitigate these issues. 
      
 ***3. Data Insights***
-
     PowerPoint Presentation containing a detailed approach for the strategies involved in Data Exploration, 
     Model Development and Interpretation. 
     
 ***4. Data Insights and Presentation***
-
      A dashboard. 
      
 
