@@ -1,6 +1,7 @@
 # Sprocket Ltd KPMG Virtual Case Study
-This is a case study of *** Sprocket Ltd*** as part of the ***KPMG Virtual Internship via the Forage***. 
+This is a case study of ***Sprocket Ltd*** as part of the ***KPMG Virtual Internship via the Forage***. 
 ***Sprocket Ltd*** a company that specialises in high-quality bikes and accessible cycling accessories to riders. 
+
 
 **FOLDERS**
 
@@ -22,6 +23,7 @@ PowerPoint Presentation containing a detailed approach for the strategies involv
 
 A dashboard. 
      
+
 
 **TOOLS**
 
