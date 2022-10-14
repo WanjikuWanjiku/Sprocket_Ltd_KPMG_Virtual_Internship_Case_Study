@@ -2,6 +2,12 @@
 This is a case study of ***Sprocket Ltd*** as part of the ***KPMG Virtual Internship via the Forage***. 
 ***Sprocket Ltd*** a company that specialises in high-quality bikes and accessible cycling accessories to riders. 
 
+**Business Task**
+- Identify customer trends and behaviours to boost business.
+- Which customer trends and behaviours can be leveraged to boost business?
+
+**Outcome**
+Identify which of the new customers should be targeted to drive most value to the organisation. ![image](https://user-
 
 **FOLDERS**
 
@@ -36,7 +42,7 @@ Tools used in this case study are:
 
 **ARTICLES** 
 
-[Article on Medium](…)
+[Article on Medium](https://bit.ly/3yEgl4s)
 
 **VISUALIZATION**
 
